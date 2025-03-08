@@ -26,7 +26,7 @@ Outside the informatics field, I like photography and sports.
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-DD0031?style=for-the-badge&logo=Odoo&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=PrestaShop&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-%234ea94b.svg?style=for-the-badge&logo=PrestaShop&logoColor=white)
 ## 💾 DB
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
