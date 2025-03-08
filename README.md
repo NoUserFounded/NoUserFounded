@@ -44,7 +44,7 @@ Outside the informatics field, I like photography and sports.
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ---
-#### Featured Projects
+## Projects resume
 Here’s a quick overview of some of my projects:
 
 | Project Name             | Description                                    | Link                       |
