@@ -47,7 +47,7 @@ Outside the informatics field, I like photography and sports.
 
 ---
 
-## 📝Projects resume
+## 📝Summary of projects
 Here’s a quick overview of some of my projects:
 
 | Project Name             | Description                                    | Link                       |
