@@ -25,7 +25,6 @@ Outside the informatics field, I like photography and sports.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
 ![Odoo](https://img.shields.io/badge/Odoo-DD0031?style=for-the-badge&logo=Odoo&logoColor=white)
 
 ## 💾 DB
