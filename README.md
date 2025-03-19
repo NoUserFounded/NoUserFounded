@@ -57,6 +57,7 @@ Here’s a quick overview of some of my projects:
 | **[SupaBase](#)**   | Backend using Supabase in Flutter         | [View Repo](https://github.com/NoUserFounded/supabase_app)             |
 | **[Blockchain](#)**     | Blockchain learning project        | [View Repo](https://github.com/NoUserFounded/VerificacioBlockchain)             |
 | **[Discord BotStatus](#)**       | Bot created in AppScript for the status of A3           | [View Repo](https://github.com/mferrod/42enjoyer/tree/main/push_swap](https://github.com/NoUserFounded/BotStatus))             |
+| **[FitQuest](#)** | Fitness app developed with Flutter & SupaBase | [View Repo](https://github.com/NoUserFounded/fit_quest) |
 ---
 ## 🤝 Connect With Me
 <a href="https://www.linkedin.com/in/eric-sanclimens-tarruella/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eric%20Sanclimens-blue?style=flat-square&logo=linkedin"></a>
